@@ -1,0 +1,2 @@
+# twitter_scraper
+Python3用の、Twitterからスクレイピングするプログラムです。(Twitterの承諾なしに利用することは規約違反です)
